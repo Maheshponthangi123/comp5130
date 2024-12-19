@@ -26,9 +26,9 @@ pip3 install -r requirements.txt
 
 
 ## Usage 
-1. change the directory to `~/5130f2023/diet-fit`
+1. change the directory to /comp5310
 ```
-cd ~/5130f2023/diet-fit
+cd /comp5310
 ```
 2. activate the virtual env
 ```
